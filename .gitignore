@@ -1,0 +1,15 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore environment folders
+env/
+venv/
+
+# Ignore specific files
+.DS_Store
+*.vscode
+*.log
+log
+logs/*.log
+logs/log.*
